@@ -8,4 +8,7 @@ void main(){
   String? input = stdin.readLineSync(); // null safety
   /// одоо хадгалсан input доторх утгыг хэвлээрэй.
   print(input);
+
+  // added new line here
+  print('Hello World');
 }
